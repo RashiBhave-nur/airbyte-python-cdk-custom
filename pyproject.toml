@@ -23,7 +23,7 @@ classifiers = [
 keywords = ["airbyte", "connector-development-kit", "cdk"]
 
 # Python CDK uses dynamic versioning: https://github.com/mtkennerly/poetry-dynamic-versioning
-version = "0.0.0"  # Version will be calculated dynamically.
+version = "6.51.0"  # Version will be calculated dynamically.
 
 [tool.poetry-dynamic-versioning]
 enable = true
